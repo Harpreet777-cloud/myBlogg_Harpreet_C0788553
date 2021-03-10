@@ -1,0 +1,126 @@
+/* stylesheet for the fitness web pages*/
+/* styles for the body*/
+body {
+    background-color: #FFFF92;
+    
+}
+
+/*styles for mobile layout*/
+/* styles for the container id*/
+#Blog1 {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+header {
+margin-top: 10px;
+margin-bottom: 20px;
+
+}
+img {
+    max-width: 100%;
+}
+aside{
+
+    width: 30%;
+            padding-left: 15px;
+            margin-left: 15px;
+            float: right;
+            padding-top: 350px;
+ font-size: larger;
+ font-style: italic;  
+}
+main {
+   
+    font-size: 1em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: khaki;
+ 
+}
+footer {
+    text-align: center;
+    padding: 170px;
+    color: red;
+}
+#Blog2 {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+header {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+    }
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    aside{
+        width: 30%;
+        padding-right: 15px;
+        margin-right: 15px;
+        float: left;
+font-size: larger;
+font-style: italic;
+       
+    }
+    main {
+       
+        font-size: 1em;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        padding: 20px;
+        background-color: darkturquoise;
+     
+    }
+    footer {
+        text-align: center;
+            padding: 400px;
+            color: purple;
+        }
+        #Blog3{
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 20px;
+        }
+        header {
+            margin-top: 10px;
+            margin-bottom: 20px;
+            
+            }
+            img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            aside{
+            
+                width: 30%;
+                        padding-left: 15px;
+                        margin-left: 15px;
+                        float: right;
+                        padding-top: 350px;
+             font-size: larger;
+             font-style: italic;  
+            }
+            main {
+               
+                font-size: 1em;
+                margin-top: 20px;
+                margin-bottom: 10px;
+                padding: 20px;
+                background-color: darkturquoise;
+             
+            }
+            footer {
+                text-align: center;
+            padding: 700px;
+            color: purple; 
+            }

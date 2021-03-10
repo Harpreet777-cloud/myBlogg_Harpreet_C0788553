@@ -1,0 +1,44 @@
+/* stylesheet for the fitness web pages*/
+/* styles for the body*/
+body {
+    background-color: #FFFF92;
+    
+}
+img {
+    max-width: 100%;
+}
+/*styles for mobile layout*/
+/* styles for the container id*/
+#Blog {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+header {
+margin-top: 10px;
+margin-bottom: 20px;
+
+}
+aside{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+font-size: larger;
+font-style: italic;
+    
+}
+main {
+    font-size: 1em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: khaki;
+ 
+}
+footer {
+    font-size: .7em;
+    text-align: center;
+    margin-top: 20px;
+}
